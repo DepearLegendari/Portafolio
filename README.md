@@ -83,8 +83,6 @@ Características destacadas
 
 📬 Autor
 
-Si quieres ponerte en contacto conmigo:
-
 Nombre: Iván Eduardo Sánchez Matías
 
 GitHub: [DepearLegendari](https://github.com/DepearLegendari)
